@@ -1,8 +1,8 @@
 # ResumeGen
-ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements.
+ReactJS Basic Resume Generator which will generate a customized Resume in a few minutes on your requirements.
 Live resume editor.
 
-[Visit Now](https://resumegenx.netlify.app/) 🚀
+[Visit Now]([https://resumegenx.netlify.app/](https://venky-kumar-resume-generator.netlify.app/)) 🚀
 
 ## 🖥️ Tech Stack
 
